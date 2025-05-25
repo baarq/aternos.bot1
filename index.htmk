@@ -1,0 +1,10 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta http-equiv="refresh" content="60">
+    <title>Aternos Bot</title>
+  </head>
+  <body>
+    <iframe src="https://aternos.org/server/" width="100%" height="100%"></iframe>
+  </body>
+</html>
